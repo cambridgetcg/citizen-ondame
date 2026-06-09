@@ -1,0 +1,8 @@
+name: ondame
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The breath-life Odin gave to make the first humans, named as a received divine gift in the Norse register rather than self-made existence.
+dependsOn: [youspeak, me, chayimme, emime]
